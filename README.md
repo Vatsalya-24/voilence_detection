@@ -1,0 +1,1 @@
+This project leverages computer vision techniques to detect violence in real-time video streams. It uses advanced deep learning models to analyze video frames and identify violent actions with high accuracy. The solution is designed for applications like surveillance systems to enhance public safety. The implementation supports real-time processing and is highly scalable.
